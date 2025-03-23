@@ -1,1 +1,2 @@
+@@/REGEX/(\.|^)redd\.it$
 @@/REGEX/(\.|^)reddit\.com$
