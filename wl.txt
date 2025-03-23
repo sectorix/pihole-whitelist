@@ -4,8 +4,7 @@
 
 #URL shorteners
 #------------------------------
-www.bit.ly
-bit.ly
+@@/REGEX/(\.|^)bit\.ly$
 t.ly
 t.co
 ow.ly
@@ -106,6 +105,11 @@ spclient.wg.spotify.com
 apresolve.spotify.com
 
 
+#Google
+#------------------------------
+fonts.gstatic.com
+
+
 #Apple
 #------------------------------
 captive.apple.com 
@@ -161,8 +165,7 @@ go.microsoft.com
 dmd.metaservices.microsoft.com
 
 
-#IOT and other devices
+#Other services
 #------------------------------
 community.smartthings.com
-
-
+@@/REGEX/(\.|^)proxymesh\.com$
