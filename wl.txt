@@ -130,6 +130,10 @@ c.s-microsoft.com
 i.s-microsoft.com 
 login.live.com 
 login.microsoftonline.com 
+sls.update.microsoft.com.akadns.net
+fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+tlu.dl.delivery.mp.microsoft.com
+msedge.api.cdp.microsoft.com
 
 
 #Xbox
@@ -165,7 +169,16 @@ go.microsoft.com
 dmd.metaservices.microsoft.com
 
 
-#Other services
+#Sonarr
+#------------------------------
+services.sonarr.tv
+skyhook.sonarr.tv
+download.sonarr.tv
+apt.sonarr.tv
+forums.sonarr.tv
+
+
+#Tools and online services
 #------------------------------
 community.smartthings.com
 @@/REGEX/(\.|^)proxymesh\.com$
